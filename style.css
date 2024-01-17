@@ -5,17 +5,18 @@
 }
 
 body {
-  background-color: #fda403;
+  background-color: #975a5e;
 }
 
 h1 {
-  color: #c51350;
+  color: #eeeeee;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
 p {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  color: #eeeeee;
 }
 img {
   width: 25%;
