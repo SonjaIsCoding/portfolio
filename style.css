@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-body {
+.body_index {
   background-color: #975a5e;
 }
 
@@ -20,4 +20,8 @@ p {
 }
 img {
   width: 25%;
+}
+
+.body_cv {
+  background-color: #f3d7ca;
 }
