@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+}
+
+.paragraph_1 {
+  align-items: center;
+  padding: 10px;
+  height: 300px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.paragraph_2 {
+  align-items: center;
+  padding: 10px;
+  height: 300px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.paragraph_3 {
+  align-items: center;
+  padding: 10px;
+  height: 300px;
+  display: flex;
+  justify-content: flex-end;
+}
