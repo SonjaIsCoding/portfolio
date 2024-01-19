@@ -7,25 +7,26 @@
 .container {
   display: flex;
   padding: 10px;
-  height: 300px;
-  width: 450px;
   text-align: center;
+  gap: 20px;
 }
 
-/* .paragraph_1 {
-  padding: 10px;
-  height: 300px;
-  width: 500px;
+.paragraph {
+  font-size: 1.2em;
+  line-height: 1.4em;
+}
+
+.paragraph_1,
+.paragraph_3 {
+  flex-basis: 25%;
 }
 
 .paragraph_2 {
-  padding: 10px;
-  height: 300px;
-  width: 500px;
+  flex-basis: 50%;
 }
 
-.paragraph_3 {
-  padding: 10px;
-  height: 300px;
-  width: 500px;
-} */
+@media (max-width: 700px) {
+  .container {
+    flex-direction: column;
+  }
+}

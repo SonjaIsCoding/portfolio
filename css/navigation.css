@@ -5,14 +5,14 @@
 }
 
 nav {
-  display: flex;
-  justify-content: center;
   font-size: 17px;
   border-style: solid;
   border: #eeeeee;
 }
 
 ul {
+  display: flex;
+  justify-content: center;
   list-style-type: none;
   font-family: "Courier New", Courier, monospace;
 }
