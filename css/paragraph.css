@@ -6,28 +6,26 @@
 
 .container {
   display: flex;
-}
-
-.paragraph_1 {
-  align-items: center;
   padding: 10px;
   height: 300px;
-  display: flex;
-  justify-content: flex-start;
+  width: 450px;
+  text-align: center;
+}
+
+/* .paragraph_1 {
+  padding: 10px;
+  height: 300px;
+  width: 500px;
 }
 
 .paragraph_2 {
-  align-items: center;
   padding: 10px;
   height: 300px;
-  display: flex;
-  justify-content: flex-start;
+  width: 500px;
 }
 
 .paragraph_3 {
-  align-items: center;
   padding: 10px;
   height: 300px;
-  display: flex;
-  justify-content: flex-end;
-}
+  width: 500px;
+} */

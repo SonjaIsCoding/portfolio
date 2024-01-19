@@ -7,9 +7,14 @@
 .header {
   background: linear-gradient(
     to right,
-    rgb(151, 90, 94),
-    rgb(149, 125, 173),
-    rgb(151, 90, 94)
+    rgb(154, 123, 195),
+    white,
+    white,
+    white,
+    white,
+    white,
+    white,
+    white
   );
   padding: 30px;
   font-size: 35px;
@@ -20,7 +25,18 @@
 .Hilfe {
   display: flex;
   justify-content: center;
-  color: whitesmoke;
+  color: black;
   font-size: 30px;
   border-bottom-style: solid;
+}
+
+.hund {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 50%;
+  border-radius: 50%;
+  color: rgb(151, 90, 94);
 }

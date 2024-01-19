@@ -7,21 +7,15 @@
 .body_index {
   background: linear-gradient(
     to right,
-    rgb(151, 90, 94),
-    rgb(149, 125, 173),
-    rgb(151, 90, 94)
+    rgb(154, 123, 195),
+    white,
+    white,
+    white,
+    white,
+    white,
+    white,
+    white
   );
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: black;
-}
-
-.hund {
-  display: flex;
-  justify-content: center;
-}
-
-img {
-  width: 50%;
-  border-radius: 20px;
-  color: rgb(151, 90, 94);
 }
